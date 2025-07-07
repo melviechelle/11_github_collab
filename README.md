@@ -5,3 +5,4 @@
 - Melvie Chelle A. Palinsad
 - Michael T. Ramos
 - Jhosua A. Villaluna
+- Jerick G. Villafuerte
