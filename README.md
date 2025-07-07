@@ -3,3 +3,4 @@
 ## Contributors
 
 - Melvie Chelle A. Palinsad
+- Michael T. Ramos
