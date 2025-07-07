@@ -3,6 +3,3 @@
 ## Contributors
 
 - Melvie Chelle
-- Michael
-- Jhosua
-- Jerick
